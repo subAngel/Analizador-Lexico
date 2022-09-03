@@ -1,0 +1,12 @@
+1777*
+#*1
+*#05#
+a123
+if
+1234
+este es un
+ejemplo
+de analisis
+lexico
+con flex
+ERROR
