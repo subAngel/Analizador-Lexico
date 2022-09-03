@@ -201,6 +201,7 @@ public class GUI extends javax.swing.JFrame {
 
     private void btn_buscarActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btn_buscarActionPerformed
         // TODO add your handling code here:
+        txt_area.setText("");
         JFileChooser fc = new JFileChooser("./src/codigo");
         
         // Filtrar textos
